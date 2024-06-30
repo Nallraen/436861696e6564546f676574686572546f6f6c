@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/asynclogger-subbuild/CMakeFiles/asynclogger-populate"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/asynclogger-subbuild/CMakeFiles/asynclogger-populate.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/asynclogger-subbuild/CMakeFiles/asynclogger-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/asynclogger-subbuild/asynclogger-populate-prefix/src/asynclogger-populate-stamp/asynclogger-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/asynclogger-subbuild/asynclogger-populate-prefix/src/asynclogger-populate-stamp/asynclogger-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/asynclogger-subbuild/asynclogger-populate-prefix/src/asynclogger-populate-stamp/asynclogger-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/asynclogger-subbuild/asynclogger-populate-prefix/src/asynclogger-populate-stamp/asynclogger-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/asynclogger-subbuild/asynclogger-populate-prefix/src/asynclogger-populate-stamp/asynclogger-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/asynclogger-subbuild/asynclogger-populate-prefix/src/asynclogger-populate-stamp/asynclogger-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/asynclogger-subbuild/asynclogger-populate-prefix/src/asynclogger-populate-stamp/asynclogger-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/asynclogger-subbuild/asynclogger-populate-prefix/src/asynclogger-populate-stamp/asynclogger-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"asynclogger-populate"
+		],
+		"name" : "asynclogger-populate"
+	}
+}

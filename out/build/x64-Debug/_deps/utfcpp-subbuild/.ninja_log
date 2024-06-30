@@ -1,0 +1,21 @@
+# ninja log v5
+3	70	7413171680831440	utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-mkdir	dde63b6b655fc65a
+3	70	7413171680831440	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/utfcpp-subbuild/utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-mkdir	dde63b6b655fc65a
+70	2809	7413171708166660	utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-download	2c4ef99acd12966b
+70	2809	7413171708166660	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/utfcpp-subbuild/utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-download	2c4ef99acd12966b
+2810	2976	0	utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-update	edcb003c821b5ad0
+2810	2976	0	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/utfcpp-subbuild/utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-update	edcb003c821b5ad0
+2976	3043	7413171710559525	utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-patch	10e454457731664f
+2976	3043	7413171710559525	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/utfcpp-subbuild/utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-patch	10e454457731664f
+3043	3110	7413171711225128	utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-configure	d38610017e4e80b7
+3043	3110	7413171711225128	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/utfcpp-subbuild/utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-configure	d38610017e4e80b7
+3110	3177	7413171711907211	utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-build	d0c86705c0831566
+3110	3177	7413171711907211	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/utfcpp-subbuild/utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-build	d0c86705c0831566
+3177	3245	7413171712573010	utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-install	a58de67ff7e3f5c8
+3177	3245	7413171712573010	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/utfcpp-subbuild/utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-install	a58de67ff7e3f5c8
+3245	3313	7413171713228100	utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-test	a99f935bd06524ed
+3245	3313	7413171713228100	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/utfcpp-subbuild/utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-test	a99f935bd06524ed
+3313	3406	7413171714175256	CMakeFiles/utfcpp-populate-complete	d405923ef214cf77
+3313	3406	7413171714175256	utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-done	d405923ef214cf77
+3313	3406	7413171714175256	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/utfcpp-subbuild/CMakeFiles/utfcpp-populate-complete	d405923ef214cf77
+3313	3406	7413171714175256	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/utfcpp-subbuild/utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-done	d405923ef214cf77

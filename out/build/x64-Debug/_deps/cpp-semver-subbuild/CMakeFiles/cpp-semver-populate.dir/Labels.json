@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cpp-semver-subbuild/CMakeFiles/cpp-semver-populate"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cpp-semver-subbuild/CMakeFiles/cpp-semver-populate.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cpp-semver-subbuild/CMakeFiles/cpp-semver-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cpp-semver-subbuild/cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cpp-semver-subbuild/cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cpp-semver-subbuild/cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cpp-semver-subbuild/cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cpp-semver-subbuild/cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cpp-semver-subbuild/cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cpp-semver-subbuild/cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cpp-semver-subbuild/cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"cpp-semver-populate"
+		],
+		"name" : "cpp-semver-populate"
+	}
+}

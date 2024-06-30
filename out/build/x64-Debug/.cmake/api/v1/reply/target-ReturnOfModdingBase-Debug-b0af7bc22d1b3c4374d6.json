@@ -1,0 +1,1299 @@
+{
+	"archive" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/machine:x64",
+				"role" : "flags"
+			}
+		]
+	},
+	"artifacts" : 
+	[
+		{
+			"path" : "_deps/rom-build/ReturnOfModdingBase.lib"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries",
+			"add_compile_options",
+			"add_compile_definitions",
+			"include",
+			"add_definitions",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"out/build/x64-Debug/_deps/rom-src/CMakeLists.txt",
+			"cmake_scripts/rom.cmake",
+			"CMakeLists.txt",
+			"out/build/x64-Debug/_deps/rom-src/cmake_scripts/lua.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 37,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 57,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 32,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 33,
+				"parent" : 0
+			},
+			{
+				"file" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 12,
+				"parent" : 5
+			},
+			{
+				"file" : 1,
+				"parent" : 6
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 5,
+				"parent" : 7
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 62,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"file" : 3,
+				"parent" : 10
+			},
+			{
+				"command" : 5,
+				"file" : 3,
+				"line" : 58,
+				"parent" : 11
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 44,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++latest -MTd"
+				},
+				{
+					"backtrace" : 3,
+					"fragment" : "/bigobj"
+				},
+				{
+					"backtrace" : 4,
+					"fragment" : "/utf-8"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "/wd4201"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-DASMTK_STATIC"
+				},
+				{
+					"backtrace" : 2,
+					"fragment" : "-DASMJIT_STATIC"
+				},
+				{
+					"fragment" : "-WX"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 8,
+					"define" : "IMGUI_USER_CONFIG=\"C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/src/gui/imgui_config.hpp\""
+				},
+				{
+					"backtrace" : 9,
+					"define" : "NOMINMAX"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "ReturnOfModdingBase"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "WIN32_LEAN_AND_MEAN"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "ZYCORE_STATIC_BUILD"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "ZYDIS_STATIC_BUILD"
+				},
+				{
+					"backtrace" : 12,
+					"define" : "_CRT_SECURE_NO_WARNINGS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 13,
+					"path" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-src/src"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cxxopts-src/include"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/json-src/single_include"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/imgui-src"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/polyhook-src"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cpp-semver-src/include"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/toml++-src"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-src"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/magic_enum-src/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/pugixml-src/src"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/asynclogger-src/src"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/asynclogger-src/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/magic_enum-src/include/magic_enum"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/polyhook-src/zydis/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/polyhook-src/zydis/dependencies/zycore/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/polyhook-build/zydis"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/polyhook-build/zydis/dependencies/zycore"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/polyhook-src/asmtk/src"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/polyhook-src/asmjit/src"
+				},
+				{
+					"backtrace" : 13,
+					"isSystem" : true,
+					"path" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/sol2-src/include"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/toml++-src/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2,
+					2
+				],
+				"standard" : "23"
+			},
+			"sourceIndexes" : 
+			[
+				1,
+				4,
+				6,
+				8,
+				10,
+				12,
+				15,
+				16,
+				20,
+				22,
+				24,
+				26,
+				28,
+				30,
+				34,
+				36,
+				38,
+				40,
+				45,
+				47,
+				49,
+				51,
+				53,
+				55,
+				57,
+				60,
+				62,
+				64,
+				66,
+				68,
+				71,
+				73,
+				75,
+				82,
+				84,
+				89,
+				91,
+				93,
+				96,
+				98,
+				104,
+				106,
+				112
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "imgui::@117f17ce92c81401b08d"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "lua_static::@117f17ce92c81401b08d"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "asmjit::@67482c18de6eda1c8485"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "asmtk::@67482c18de6eda1c8485"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "PolyHook_2::@0ca3a8135e2e2ae6d917"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "Zycore::@df7c3091ca410f79223b"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "Zydis::@37a66161669e78e90187"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "pugixml-static::@ec157c7f07670d922be3"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "AsyncLogger::@4076fde941d978bc067a"
+		}
+	],
+	"id" : "ReturnOfModdingBase::@117f17ce92c81401b08d",
+	"name" : "ReturnOfModdingBase",
+	"nameOnDisk" : "ReturnOfModdingBase.lib",
+	"paths" : 
+	{
+		"build" : "_deps/rom-build",
+		"source" : "out/build/x64-Debug/_deps/rom-src"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "src\\bits",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "src\\config",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		},
+		{
+			"name" : "src\\debug",
+			"sourceIndexes" : 
+			[
+				3
+			]
+		},
+		{
+			"name" : "src\\directory_watcher",
+			"sourceIndexes" : 
+			[
+				4,
+				5
+			]
+		},
+		{
+			"name" : "src\\file_manager",
+			"sourceIndexes" : 
+			[
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"name" : "src\\fonts",
+			"sourceIndexes" : 
+			[
+				14,
+				15,
+				16
+			]
+		},
+		{
+			"name" : "src\\gui",
+			"sourceIndexes" : 
+			[
+				17
+			]
+		},
+		{
+			"name" : "src\\gui\\widgets",
+			"sourceIndexes" : 
+			[
+				18,
+				19
+			]
+		},
+		{
+			"name" : "src\\hooks",
+			"sourceIndexes" : 
+			[
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			]
+		},
+		{
+			"name" : "src\\input",
+			"sourceIndexes" : 
+			[
+				30,
+				31,
+				32
+			]
+		},
+		{
+			"name" : "src\\json",
+			"sourceIndexes" : 
+			[
+				33
+			]
+		},
+		{
+			"name" : "src\\logger",
+			"sourceIndexes" : 
+			[
+				34,
+				35,
+				36,
+				37,
+				38,
+				39
+			]
+		},
+		{
+			"name" : "src\\lua\\bindings",
+			"sourceIndexes" : 
+			[
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54
+			]
+		},
+		{
+			"name" : "src\\lua\\bindings\\toml\\DataTypes\\DateAndTime",
+			"sourceIndexes" : 
+			[
+				55,
+				56
+			]
+		},
+		{
+			"name" : "src\\lua\\bindings\\toml\\DataTypes\\TOMLInt",
+			"sourceIndexes" : 
+			[
+				57,
+				58
+			]
+		},
+		{
+			"name" : "src\\lua\\bindings\\toml",
+			"sourceIndexes" : 
+			[
+				59,
+				64,
+				65
+			]
+		},
+		{
+			"name" : "src\\lua\\bindings\\toml\\decoding",
+			"sourceIndexes" : 
+			[
+				60,
+				61
+			]
+		},
+		{
+			"name" : "src\\lua\\bindings\\toml\\encoding",
+			"sourceIndexes" : 
+			[
+				62,
+				63
+			]
+		},
+		{
+			"name" : "src\\lua\\bindings\\toml\\utilities",
+			"sourceIndexes" : 
+			[
+				66,
+				67
+			]
+		},
+		{
+			"name" : "src\\lua\\bindings\\toml_v2",
+			"sourceIndexes" : 
+			[
+				68,
+				69
+			]
+		},
+		{
+			"name" : "src\\lua",
+			"sourceIndexes" : 
+			[
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78
+			]
+		},
+		{
+			"name" : "src\\math",
+			"sourceIndexes" : 
+			[
+				79
+			]
+		},
+		{
+			"name" : "src\\memory",
+			"sourceIndexes" : 
+			[
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95
+			]
+		},
+		{
+			"name" : "src\\paths",
+			"sourceIndexes" : 
+			[
+				96,
+				97
+			]
+		},
+		{
+			"name" : "src\\rom",
+			"sourceIndexes" : 
+			[
+				98,
+				99
+			]
+		},
+		{
+			"name" : "src\\string",
+			"sourceIndexes" : 
+			[
+				100,
+				101,
+				102,
+				103
+			]
+		},
+		{
+			"name" : "src\\threads",
+			"sourceIndexes" : 
+			[
+				104,
+				105,
+				106,
+				107
+			]
+		},
+		{
+			"name" : "src\\thunderstore\\v1",
+			"sourceIndexes" : 
+			[
+				108
+			]
+		},
+		{
+			"name" : "src\\toml_v2",
+			"sourceIndexes" : 
+			[
+				109,
+				110,
+				111,
+				112,
+				113,
+				114
+			]
+		},
+		{
+			"name" : "src\\win_registry",
+			"sourceIndexes" : 
+			[
+				115
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/bits/bits.hpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/config/config.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/config/config.hpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/debug/debug.hpp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/directory_watcher/directory_watcher.cpp",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/directory_watcher/directory_watcher.hpp",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/file_manager/cache_file.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/file_manager/cache_file.hpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/file_manager/file.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/file_manager/file.hpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/file_manager/file_manager.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/file_manager/file_manager.hpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/file_manager/folder.cpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/file_manager/folder.hpp",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/fonts/fonts.hpp",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/fonts/icons.cpp",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/fonts/storopia.cpp",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/gui/imgui_include.hpp",
+			"sourceGroupIndex" : 6
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/gui/widgets/imgui_bitfield.hpp",
+			"sourceGroupIndex" : 7
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/gui/widgets/imgui_hotkey.hpp",
+			"sourceGroupIndex" : 7
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/hooks/call_hook.cpp",
+			"sourceGroupIndex" : 8
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/hooks/call_hook.hpp",
+			"sourceGroupIndex" : 8
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/hooks/detour_hook.cpp",
+			"sourceGroupIndex" : 8
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/hooks/detour_hook.hpp",
+			"sourceGroupIndex" : 8
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/hooks/hooking.cpp",
+			"sourceGroupIndex" : 8
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/hooks/hooking.hpp",
+			"sourceGroupIndex" : 8
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/hooks/vmt_hook.cpp",
+			"sourceGroupIndex" : 8
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/hooks/vmt_hook.hpp",
+			"sourceGroupIndex" : 8
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/hooks/vtable_hook.cpp",
+			"sourceGroupIndex" : 8
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/hooks/vtable_hook.hpp",
+			"sourceGroupIndex" : 8
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/input/hotkey.cpp",
+			"sourceGroupIndex" : 9
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/input/hotkey.hpp",
+			"sourceGroupIndex" : 9
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/input/is_key_pressed.hpp",
+			"sourceGroupIndex" : 9
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/json/json.hpp",
+			"sourceGroupIndex" : 10
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/logger/exception_handler.cpp",
+			"sourceGroupIndex" : 11
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/logger/exception_handler.hpp",
+			"sourceGroupIndex" : 11
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/logger/logger.cpp",
+			"sourceGroupIndex" : 11
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/logger/logger.hpp",
+			"sourceGroupIndex" : 11
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/logger/stack_trace.cpp",
+			"sourceGroupIndex" : 11
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/logger/stack_trace.hpp",
+			"sourceGroupIndex" : 11
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/gui.cpp",
+			"sourceGroupIndex" : 12
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/gui.hpp",
+			"sourceGroupIndex" : 12
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/gui_element.hpp",
+			"sourceGroupIndex" : 12
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/imgui.hpp",
+			"sourceGroupIndex" : 12
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/imgui_window.hpp",
+			"sourceGroupIndex" : 12
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/log.cpp",
+			"sourceGroupIndex" : 12
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/log.hpp",
+			"sourceGroupIndex" : 12
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/memory.cpp",
+			"sourceGroupIndex" : 12
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/memory.hpp",
+			"sourceGroupIndex" : 12
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/path.cpp",
+			"sourceGroupIndex" : 12
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/path.hpp",
+			"sourceGroupIndex" : 12
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/paths.cpp",
+			"sourceGroupIndex" : 12
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/paths.hpp",
+			"sourceGroupIndex" : 12
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/raw_imgui_callback.cpp",
+			"sourceGroupIndex" : 12
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/raw_imgui_callback.hpp",
+			"sourceGroupIndex" : 12
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/toml/DataTypes/DateAndTime/dateAndTime.cpp",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/toml/DataTypes/DateAndTime/dateAndTime.hpp",
+			"sourceGroupIndex" : 13
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/toml/DataTypes/TOMLInt/TOMLInt.cpp",
+			"sourceGroupIndex" : 14
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/toml/DataTypes/TOMLInt/TOMLInt.hpp",
+			"sourceGroupIndex" : 14
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/toml/Options.hpp",
+			"sourceGroupIndex" : 15
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/toml/decoding/decoding.cpp",
+			"sourceGroupIndex" : 16
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/toml/decoding/decoding.hpp",
+			"sourceGroupIndex" : 16
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/toml/encoding/encoding.cpp",
+			"sourceGroupIndex" : 17
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/toml/encoding/encoding.hpp",
+			"sourceGroupIndex" : 17
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/toml/toml_lua.cpp",
+			"sourceGroupIndex" : 15
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/toml/toml_lua.hpp",
+			"sourceGroupIndex" : 15
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/toml/utilities/utilities.cpp",
+			"sourceGroupIndex" : 18
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/toml/utilities/utilities.hpp",
+			"sourceGroupIndex" : 18
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/toml_v2/toml_lua_v2.cpp",
+			"sourceGroupIndex" : 19
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/bindings/toml_v2/toml_lua_v2.hpp",
+			"sourceGroupIndex" : 19
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/load_module_result.hpp",
+			"sourceGroupIndex" : 20
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/lua_manager.cpp",
+			"sourceGroupIndex" : 20
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/lua_manager.hpp",
+			"sourceGroupIndex" : 20
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/lua_module.cpp",
+			"sourceGroupIndex" : 20
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/lua_module.hpp",
+			"sourceGroupIndex" : 20
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/lua_patch.cpp",
+			"sourceGroupIndex" : 20
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/lua_patch.hpp",
+			"sourceGroupIndex" : 20
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/module_info.hpp",
+			"sourceGroupIndex" : 20
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/lua/sol_include.hpp",
+			"sourceGroupIndex" : 20
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/math/math.hpp",
+			"sourceGroupIndex" : 21
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/memory/all.hpp",
+			"sourceGroupIndex" : 22
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/memory/batch.hpp",
+			"sourceGroupIndex" : 22
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/memory/byte_patch.cpp",
+			"sourceGroupIndex" : 22
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/memory/byte_patch.hpp",
+			"sourceGroupIndex" : 22
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/memory/byte_patch_manager.cpp",
+			"sourceGroupIndex" : 22
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/memory/byte_patch_manager.hpp",
+			"sourceGroupIndex" : 22
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/memory/fwddec.hpp",
+			"sourceGroupIndex" : 22
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/memory/gm_address.hpp",
+			"sourceGroupIndex" : 22
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/memory/handle.hpp",
+			"sourceGroupIndex" : 22
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/memory/module.cpp",
+			"sourceGroupIndex" : 22
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/memory/module.hpp",
+			"sourceGroupIndex" : 22
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/memory/pattern.cpp",
+			"sourceGroupIndex" : 22
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/memory/pattern.hpp",
+			"sourceGroupIndex" : 22
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/memory/range.cpp",
+			"sourceGroupIndex" : 22
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/memory/range.hpp",
+			"sourceGroupIndex" : 22
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/memory/signature.hpp",
+			"sourceGroupIndex" : 22
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/paths/paths.cpp",
+			"sourceGroupIndex" : 23
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/paths/paths.hpp",
+			"sourceGroupIndex" : 23
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/rom/rom.cpp",
+			"sourceGroupIndex" : 24
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/rom/rom.hpp",
+			"sourceGroupIndex" : 24
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/string/compile_time_str.hpp",
+			"sourceGroupIndex" : 25
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/string/hash.hpp",
+			"sourceGroupIndex" : 25
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/string/string.hpp",
+			"sourceGroupIndex" : 25
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/string/string_conversions.hpp",
+			"sourceGroupIndex" : 25
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/threads/thread_pool.cpp",
+			"sourceGroupIndex" : 26
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/threads/thread_pool.hpp",
+			"sourceGroupIndex" : 26
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/threads/util.cpp",
+			"sourceGroupIndex" : 26
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/threads/util.hpp",
+			"sourceGroupIndex" : 26
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/thunderstore/v1/manifest.hpp",
+			"sourceGroupIndex" : 27
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/toml_v2/acceptable_value_base.hpp",
+			"sourceGroupIndex" : 28
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/toml_v2/config_definition.hpp",
+			"sourceGroupIndex" : 28
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/toml_v2/config_description.hpp",
+			"sourceGroupIndex" : 28
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/toml_v2/config_file.cpp",
+			"sourceGroupIndex" : 28
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/toml_v2/config_file.hpp",
+			"sourceGroupIndex" : 28
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/toml_v2/toml_type_converter.hpp",
+			"sourceGroupIndex" : 28
+		},
+		{
+			"backtrace" : 1,
+			"path" : "out/build/x64-Debug/_deps/rom-src/src/win_registry/win_registry.hpp",
+			"sourceGroupIndex" : 29
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

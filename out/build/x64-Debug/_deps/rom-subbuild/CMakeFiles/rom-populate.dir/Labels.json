@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-subbuild/CMakeFiles/rom-populate"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-subbuild/CMakeFiles/rom-populate.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-subbuild/CMakeFiles/rom-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-subbuild/rom-populate-prefix/src/rom-populate-stamp/rom-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-subbuild/rom-populate-prefix/src/rom-populate-stamp/rom-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-subbuild/rom-populate-prefix/src/rom-populate-stamp/rom-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-subbuild/rom-populate-prefix/src/rom-populate-stamp/rom-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-subbuild/rom-populate-prefix/src/rom-populate-stamp/rom-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-subbuild/rom-populate-prefix/src/rom-populate-stamp/rom-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-subbuild/rom-populate-prefix/src/rom-populate-stamp/rom-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-subbuild/rom-populate-prefix/src/rom-populate-stamp/rom-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"rom-populate"
+		],
+		"name" : "rom-populate"
+	}
+}

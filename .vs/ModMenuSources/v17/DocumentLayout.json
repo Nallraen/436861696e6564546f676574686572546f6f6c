@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\gui\\gui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gui\\gui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\gui\\renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gui\\renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\gui\\gui.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gui\\gui.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\lua_extensions\\bindings\\gui_ext.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lua_extensions\\bindings\\gui_ext.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\gui\\imgui_config.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\gui\\imgui_config.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\out\\build\\x64-Debug\\_deps\\asynclogger-src\\src\\LogCapture.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:out\\build\\x64-Debug\\_deps\\asynclogger-src\\src\\LogCapture.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\common.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\common.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\UnrealContainers.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\UnrealContainers.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\Engine_classes.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\Engine_classes.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\GS_Game_functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\GS_Game_functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\BPI_Gamestate_functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\BPI_Gamestate_functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\BP_Character_classes.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\BP_Character_classes.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\GS_Game_classes.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\GS_Game_classes.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "renderer.cpp",
+              "DocumentMoniker": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\gui\\renderer.cpp",
+              "RelativeDocumentMoniker": "src\\gui\\renderer.cpp",
+              "ToolTip": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\gui\\renderer.cpp",
+              "RelativeToolTip": "src\\gui\\renderer.cpp",
+              "ViewState": "AQIAALIBAAAAAAAAAAAvwMwBAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T06:22:44.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "gui_ext.cpp",
+              "DocumentMoniker": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\lua_extensions\\bindings\\gui_ext.cpp",
+              "RelativeDocumentMoniker": "src\\lua_extensions\\bindings\\gui_ext.cpp",
+              "ToolTip": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\lua_extensions\\bindings\\gui_ext.cpp",
+              "RelativeToolTip": "src\\lua_extensions\\bindings\\gui_ext.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T05:24:54.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "imgui_config.hpp",
+              "DocumentMoniker": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\gui\\imgui_config.hpp",
+              "RelativeDocumentMoniker": "src\\gui\\imgui_config.hpp",
+              "ToolTip": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\gui\\imgui_config.hpp",
+              "RelativeToolTip": "src\\gui\\imgui_config.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T05:21:32.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LogCapture.hpp",
+              "DocumentMoniker": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\out\\build\\x64-Debug\\_deps\\asynclogger-src\\src\\LogCapture.hpp",
+              "RelativeDocumentMoniker": "out\\build\\x64-Debug\\_deps\\asynclogger-src\\src\\LogCapture.hpp",
+              "ToolTip": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\out\\build\\x64-Debug\\_deps\\asynclogger-src\\src\\LogCapture.hpp",
+              "RelativeToolTip": "out\\build\\x64-Debug\\_deps\\asynclogger-src\\src\\LogCapture.hpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T04:46:31.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\main.cpp",
+              "RelativeDocumentMoniker": "src\\main.cpp",
+              "ToolTip": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\main.cpp",
+              "RelativeToolTip": "src\\main.cpp",
+              "ViewState": "AQIAALIAAAAAAAAAAAAvwMIAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T04:43:49.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "common.hpp",
+              "DocumentMoniker": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\common.hpp",
+              "RelativeDocumentMoniker": "src\\common.hpp",
+              "ToolTip": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\common.hpp",
+              "RelativeToolTip": "src\\common.hpp",
+              "ViewState": "AQIAACMAAAAAAAAAAAAvwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T04:43:44.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gui.hpp",
+              "DocumentMoniker": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\gui\\gui.hpp",
+              "RelativeDocumentMoniker": "src\\gui\\gui.hpp",
+              "ToolTip": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\gui\\gui.hpp",
+              "RelativeToolTip": "src\\gui\\gui.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T04:43:38.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnrealContainers.hpp",
+              "DocumentMoniker": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\UnrealContainers.hpp",
+              "RelativeDocumentMoniker": "src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\UnrealContainers.hpp",
+              "ToolTip": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\UnrealContainers.hpp",
+              "RelativeToolTip": "src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\UnrealContainers.hpp",
+              "ViewState": "AQIAAOcCAAAAAAAAAAAvwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T04:42:38.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GS_Game_functions.cpp",
+              "DocumentMoniker": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\GS_Game_functions.cpp",
+              "RelativeDocumentMoniker": "src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\GS_Game_functions.cpp",
+              "ToolTip": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\GS_Game_functions.cpp",
+              "RelativeToolTip": "src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\GS_Game_functions.cpp",
+              "ViewState": "AQIAABsFAAAAAAAAAAAcwDsFAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T03:28:42.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BPI_Gamestate_functions.cpp",
+              "DocumentMoniker": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\BPI_Gamestate_functions.cpp",
+              "RelativeDocumentMoniker": "src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\BPI_Gamestate_functions.cpp",
+              "ToolTip": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\BPI_Gamestate_functions.cpp",
+              "RelativeToolTip": "src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\BPI_Gamestate_functions.cpp",
+              "ViewState": "AQIAAKABAAAAAAAAAAAcwLoBAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T03:15:26.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BP_Character_classes.hpp",
+              "DocumentMoniker": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\BP_Character_classes.hpp",
+              "RelativeDocumentMoniker": "src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\BP_Character_classes.hpp",
+              "ToolTip": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\BP_Character_classes.hpp",
+              "RelativeToolTip": "src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\BP_Character_classes.hpp",
+              "ViewState": "AQIAABoCAAAAAAAAAAAvwD4CAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T02:43:53.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SDK.hpp",
+              "DocumentMoniker": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK.hpp",
+              "RelativeDocumentMoniker": "src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK.hpp",
+              "ToolTip": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK.hpp",
+              "RelativeToolTip": "src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8BAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T00:13:10.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GS_Game_classes.hpp",
+              "DocumentMoniker": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\GS_Game_classes.hpp",
+              "RelativeDocumentMoniker": "src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\GS_Game_classes.hpp",
+              "ToolTip": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\GS_Game_classes.hpp",
+              "RelativeToolTip": "src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\GS_Game_classes.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T00:12:02.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Engine_classes.hpp",
+              "DocumentMoniker": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\Engine_classes.hpp",
+              "RelativeDocumentMoniker": "src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\Engine_classes.hpp",
+              "ToolTip": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\Engine_classes.hpp",
+              "RelativeToolTip": "src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether\\CppSDK\\SDK\\Engine_classes.hpp",
+              "ViewState": "AQIAAEEDAAAAAAAAAAAcwFsDAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-29T00:01:23.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gui.cpp",
+              "DocumentMoniker": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\gui\\gui.cpp",
+              "RelativeDocumentMoniker": "src\\gui\\gui.cpp",
+              "ToolTip": "C:\\Users\\prona\\Documents\\01. Dev\\01 - Hacking Training\\ModMenuSources\\src\\gui\\gui.cpp",
+              "RelativeToolTip": "src\\gui\\gui.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T22:44:21.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

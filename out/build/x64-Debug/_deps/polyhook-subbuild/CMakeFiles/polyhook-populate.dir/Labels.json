@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/polyhook-subbuild/CMakeFiles/polyhook-populate"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/polyhook-subbuild/CMakeFiles/polyhook-populate.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/polyhook-subbuild/CMakeFiles/polyhook-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/polyhook-subbuild/polyhook-populate-prefix/src/polyhook-populate-stamp/polyhook-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/polyhook-subbuild/polyhook-populate-prefix/src/polyhook-populate-stamp/polyhook-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/polyhook-subbuild/polyhook-populate-prefix/src/polyhook-populate-stamp/polyhook-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/polyhook-subbuild/polyhook-populate-prefix/src/polyhook-populate-stamp/polyhook-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/polyhook-subbuild/polyhook-populate-prefix/src/polyhook-populate-stamp/polyhook-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/polyhook-subbuild/polyhook-populate-prefix/src/polyhook-populate-stamp/polyhook-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/polyhook-subbuild/polyhook-populate-prefix/src/polyhook-populate-stamp/polyhook-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/polyhook-subbuild/polyhook-populate-prefix/src/polyhook-populate-stamp/polyhook-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"polyhook-populate"
+		],
+		"name" : "polyhook-populate"
+	}
+}

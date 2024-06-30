@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/CMakeFiles/lua_static-populate"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/CMakeFiles/lua_static-populate.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/CMakeFiles/lua_static-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"lua_static-populate"
+		],
+		"name" : "lua_static-populate"
+	}
+}

@@ -1,0 +1,21 @@
+# ninja log v5
+2	87	7413171353785143	lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-mkdir	d17609e18ba62a13
+2	87	7413171353785143	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-mkdir	d17609e18ba62a13
+88	3034	7413171383221094	lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-download	b2298a324b8e5f45
+88	3034	7413171383221094	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-download	b2298a324b8e5f45
+3035	3231	0	lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-update	bbfbf9798bd90bc0
+3035	3231	0	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-update	bbfbf9798bd90bc0
+3231	3310	7413171385958636	lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-patch	ff75ab4115887c41
+3231	3310	7413171385958636	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-patch	ff75ab4115887c41
+3310	3397	7413171386883032	lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-configure	1ed556a63744ae5a
+3310	3397	7413171386883032	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-configure	1ed556a63744ae5a
+3397	3518	7413171387882670	lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-build	8a34016231bf4d57
+3397	3518	7413171387882670	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-build	8a34016231bf4d57
+3518	3602	7413171388865967	lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-install	46008c5867b36aec
+3518	3602	7413171388865967	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-install	46008c5867b36aec
+3602	3686	7413171389765780	lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-test	911d652571086f12
+3602	3686	7413171389765780	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-test	911d652571086f12
+3686	3784	7413171390751331	CMakeFiles/lua_static-populate-complete	fce1c270eda3ca29
+3686	3784	7413171390751331	lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-done	fce1c270eda3ca29
+3686	3784	7413171390751331	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/CMakeFiles/lua_static-populate-complete	fce1c270eda3ca29
+3686	3784	7413171390751331	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-done	fce1c270eda3ca29

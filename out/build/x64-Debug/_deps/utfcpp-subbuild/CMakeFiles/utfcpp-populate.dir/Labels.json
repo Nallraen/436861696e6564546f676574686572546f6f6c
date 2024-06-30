@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/utfcpp-subbuild/CMakeFiles/utfcpp-populate"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/utfcpp-subbuild/CMakeFiles/utfcpp-populate.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/utfcpp-subbuild/CMakeFiles/utfcpp-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/utfcpp-subbuild/utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/utfcpp-subbuild/utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/utfcpp-subbuild/utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/utfcpp-subbuild/utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/utfcpp-subbuild/utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/utfcpp-subbuild/utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/utfcpp-subbuild/utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/utfcpp-subbuild/utfcpp-populate-prefix/src/utfcpp-populate-stamp/utfcpp-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"utfcpp-populate"
+		],
+		"name" : "utfcpp-populate"
+	}
+}

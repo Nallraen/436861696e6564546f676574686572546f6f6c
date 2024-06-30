@@ -1,0 +1,21 @@
+# ninja log v5
+3	102	7413171111798617	cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-mkdir	6e6c35f42cfa9e4a
+3	102	7413171111798617	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cpp-semver-subbuild/cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-mkdir	6e6c35f42cfa9e4a
+102	2119	7413171131939290	cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-download	32589a9e9b3031a9
+102	2119	7413171131939290	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cpp-semver-subbuild/cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-download	32589a9e9b3031a9
+2119	2280	0	cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-update	ee951e565360bb99
+2119	2280	0	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cpp-semver-subbuild/cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-update	ee951e565360bb99
+2280	2345	7413171134258768	cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-patch	eaa582b6a486a5c4
+2280	2345	7413171134258768	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cpp-semver-subbuild/cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-patch	eaa582b6a486a5c4
+2345	2408	7413171134887679	cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-configure	ec543fe8fa720c98
+2345	2408	7413171134887679	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cpp-semver-subbuild/cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-configure	ec543fe8fa720c98
+2408	2468	7413171135458739	cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-build	3466323024c5ae2
+2408	2468	7413171135458739	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cpp-semver-subbuild/cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-build	3466323024c5ae2
+2468	2531	7413171136093276	cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-install	974a880e927ca074
+2468	2531	7413171136093276	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cpp-semver-subbuild/cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-install	974a880e927ca074
+2531	2594	7413171136721661	cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-test	6fe67e4b196d3a04
+2531	2594	7413171136721661	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cpp-semver-subbuild/cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-test	6fe67e4b196d3a04
+2594	2680	7413171137584604	CMakeFiles/cpp-semver-populate-complete	ee603cb4f3d65741
+2594	2680	7413171137584604	cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-done	ee603cb4f3d65741
+2594	2680	7413171137584604	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cpp-semver-subbuild/CMakeFiles/cpp-semver-populate-complete	ee603cb4f3d65741
+2594	2680	7413171137584604	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/cpp-semver-subbuild/cpp-semver-populate-prefix/src/cpp-semver-populate-stamp/cpp-semver-populate-done	ee603cb4f3d65741

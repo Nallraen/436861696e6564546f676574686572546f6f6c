@@ -1,0 +1,21 @@
+# ninja log v5
+2	78	7413171605645115	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-mkdir	804832723fafba7d
+2	78	7413171605645115	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-mkdir	804832723fafba7d
+79	2908	7413171633937581	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-download	54403f2ad964ea20
+79	2908	7413171633937581	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-download	54403f2ad964ea20
+2909	3082	0	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-update	50aadaeb7b89eb12
+2909	3082	0	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-update	50aadaeb7b89eb12
+3082	3156	7413171636435132	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-patch	4a6fc34f38f95461
+3082	3156	7413171636435132	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-patch	4a6fc34f38f95461
+3156	3229	7413171637164540	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-configure	7022f782add77068
+3156	3229	7413171637164540	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-configure	7022f782add77068
+3229	3328	7413171638122632	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-build	87b60691ecd7e134
+3229	3328	7413171638122632	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-build	87b60691ecd7e134
+3328	3409	7413171638965644	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-install	6cef857096917820
+3328	3409	7413171638965644	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-install	6cef857096917820
+3409	3487	7413171639736550	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-test	b652471a6334200d
+3409	3487	7413171639736550	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-test	b652471a6334200d
+3487	3599	7413171640892580	CMakeFiles/pugixml-populate-complete	8282b59d4fbf16da
+3487	3599	7413171640892580	pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-done	8282b59d4fbf16da
+3487	3599	7413171640892580	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/pugixml-subbuild/CMakeFiles/pugixml-populate-complete	8282b59d4fbf16da
+3487	3599	7413171640892580	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/pugixml-subbuild/pugixml-populate-prefix/src/pugixml-populate-stamp/pugixml-populate-done	8282b59d4fbf16da

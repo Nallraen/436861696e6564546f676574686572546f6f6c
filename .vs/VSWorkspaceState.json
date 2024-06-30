@@ -1,0 +1,21 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-Release-FastCompile",
+      "out\\install\\x64-Release-FastCompile",
+      "out\\build\\x64-Release-FINAL",
+      "out\\install\\x64-Release-FINAL",
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Dumper-7_5.3.2-29314046\u002B\u002B\u002BUE5\u002BRelease-5.3-ChainedTogether",
+    "\\src\\gui",
+    "\\src\\lua_extensions\\bindings"
+  ],
+  "SelectedNode": "\\src\\gui\\renderer.cpp",
+  "PreviewInSolutionExplorer": false
+}

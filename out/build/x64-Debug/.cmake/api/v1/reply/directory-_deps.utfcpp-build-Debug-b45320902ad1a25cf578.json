@@ -1,0 +1,100 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"out/build/x64-Debug/_deps/utfcpp-src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 42,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 47,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 51,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 52,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "share/utf8cpp/cmake",
+			"exportName" : "utf8cppTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "utf8cpp::@e2c33f98b932c3555a58",
+					"index" : 0
+				}
+			],
+			"paths" : 
+			[
+				"_deps/utfcpp-build/CMakeFiles/Export/92c204fa88b81950ec0385cfa3e48c04/utf8cppTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "share/utf8cpp/cmake",
+			"paths" : 
+			[
+				"out/build/x64-Debug/_deps/utfcpp-build/utf8cppConfig.cmake",
+				"out/build/x64-Debug/_deps/utfcpp-build/utf8cppConfigVersion.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "include/utf8cpp",
+			"paths" : 
+			[
+				"out/build/x64-Debug/_deps/utfcpp-src/source/utf8.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "include/utf8cpp",
+			"paths" : 
+			[
+				"out/build/x64-Debug/_deps/utfcpp-src/source/utf8"
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/utfcpp-build",
+		"source" : "out/build/x64-Debug/_deps/utfcpp-src"
+	}
+}

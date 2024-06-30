@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/polyhook-build/zydis/zycore",
+		"source" : "out/build/x64-Debug/_deps/polyhook-src/zydis/dependencies/zycore"
+	}
+}

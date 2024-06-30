@@ -1,0 +1,14 @@
+# Target labels
+ lua_static-populate
+# Source files and their labels
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/CMakeFiles/lua_static-populate
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/CMakeFiles/lua_static-populate.rule
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/CMakeFiles/lua_static-populate-complete.rule
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-build.rule
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-configure.rule
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-download.rule
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-install.rule
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-mkdir.rule
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-patch.rule
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-test.rule
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/lua_static-subbuild/lua_static-populate-prefix/src/lua_static-populate-stamp/lua_static-populate-update.rule

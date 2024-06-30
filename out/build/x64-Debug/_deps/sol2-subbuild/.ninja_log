@@ -1,0 +1,21 @@
+# ninja log v5
+3	66	7413171395555233	sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-mkdir	2669728311016308
+3	66	7413171395555233	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-mkdir	2669728311016308
+67	3963	7413171434510675	sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-download	88afe98ad282b473
+67	3963	7413171434510675	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-download	88afe98ad282b473
+3964	4153	0	sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-update	e65d3ab78ecf9e8e
+3964	4153	0	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-update	e65d3ab78ecf9e8e
+4153	4230	7413171437182510	sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-patch	a322dc1c6c6dae28
+4153	4230	7413171437182510	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-patch	a322dc1c6c6dae28
+4230	4311	7413171437991919	sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-configure	beb1d89c67c49d47
+4230	4311	7413171437991919	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-configure	beb1d89c67c49d47
+4311	4392	7413171438782470	sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-build	dc0a8958bb34eccd
+4311	4392	7413171438782470	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-build	dc0a8958bb34eccd
+4392	4474	7413171439587460	sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-install	e07fea90ff9fc3d6
+4392	4474	7413171439587460	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-install	e07fea90ff9fc3d6
+4474	4555	7413171440446087	sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-test	8e3d5a237f6f5236
+4474	4555	7413171440446087	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-test	8e3d5a237f6f5236
+4555	4663	7413171441475711	CMakeFiles/sol2-populate-complete	7bde9a5c075b28f5
+4555	4663	7413171441475711	sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-done	7bde9a5c075b28f5
+4555	4663	7413171441475711	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/sol2-subbuild/CMakeFiles/sol2-populate-complete	7bde9a5c075b28f5
+4555	4663	7413171441475711	C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/sol2-subbuild/sol2-populate-prefix/src/sol2-populate-stamp/sol2-populate-done	7bde9a5c075b28f5

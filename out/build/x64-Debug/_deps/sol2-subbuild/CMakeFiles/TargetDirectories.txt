@@ -1,0 +1,3 @@
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/sol2-subbuild/CMakeFiles/sol2-populate.dir
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/sol2-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/sol2-subbuild/CMakeFiles/rebuild_cache.dir

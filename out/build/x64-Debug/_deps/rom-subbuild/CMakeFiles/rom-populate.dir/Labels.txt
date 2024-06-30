@@ -1,0 +1,14 @@
+# Target labels
+ rom-populate
+# Source files and their labels
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-subbuild/CMakeFiles/rom-populate
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-subbuild/CMakeFiles/rom-populate.rule
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-subbuild/CMakeFiles/rom-populate-complete.rule
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-subbuild/rom-populate-prefix/src/rom-populate-stamp/rom-populate-build.rule
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-subbuild/rom-populate-prefix/src/rom-populate-stamp/rom-populate-configure.rule
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-subbuild/rom-populate-prefix/src/rom-populate-stamp/rom-populate-download.rule
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-subbuild/rom-populate-prefix/src/rom-populate-stamp/rom-populate-install.rule
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-subbuild/rom-populate-prefix/src/rom-populate-stamp/rom-populate-mkdir.rule
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-subbuild/rom-populate-prefix/src/rom-populate-stamp/rom-populate-patch.rule
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-subbuild/rom-populate-prefix/src/rom-populate-stamp/rom-populate-test.rule
+C:/Users/prona/Documents/01. Dev/01 - Hacking Training/ModMenuSources/out/build/x64-Debug/_deps/rom-subbuild/rom-populate-prefix/src/rom-populate-stamp/rom-populate-update.rule
